@@ -1,0 +1,37 @@
+html ,  corps {
+    largeur :  50 % ;
+    marge :  0 auto ;
+    famille de polices : Arial , Helvetica , sans-serif ;
+}
+
+. conteneur {
+    largeur :  360 px ;
+}
+
+# champ d'entrée {
+    largeur :  300 px ;
+    hauteur :  46 px ;
+    border-width :  0 ;
+    bordure :  1 px noir uni ;
+    contour : aucun;
+    taille de police :  25 px ;
+    alignement vertical : milieu ;
+}
+
+# addToDo {
+    hauteur :  50 px ;
+    largeur :  50 px ;
+    bordure :  1 px noir uni ;
+    alignement vertical : milieu ;
+    taille de police :  30 px ;
+}
+
+. style de paragraphe {
+    marge :  0 ;
+    curseur : pointeur;
+    taille de police :  20 px ;
+}
+
+. choses à faire {
+    marge-haut :  25 px ;
+}
